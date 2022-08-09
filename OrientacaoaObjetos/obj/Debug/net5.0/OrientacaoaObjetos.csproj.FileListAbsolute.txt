@@ -1,0 +1,16 @@
+C:\Users\Aluno\Documents\Csharp\OrientacaoaObjetos\bin\Debug\net5.0\OrientacaoaObjetos.exe
+C:\Users\Aluno\Documents\Csharp\OrientacaoaObjetos\bin\Debug\net5.0\OrientacaoaObjetos.deps.json
+C:\Users\Aluno\Documents\Csharp\OrientacaoaObjetos\bin\Debug\net5.0\OrientacaoaObjetos.runtimeconfig.json
+C:\Users\Aluno\Documents\Csharp\OrientacaoaObjetos\bin\Debug\net5.0\OrientacaoaObjetos.runtimeconfig.dev.json
+C:\Users\Aluno\Documents\Csharp\OrientacaoaObjetos\bin\Debug\net5.0\OrientacaoaObjetos.dll
+C:\Users\Aluno\Documents\Csharp\OrientacaoaObjetos\bin\Debug\net5.0\ref\OrientacaoaObjetos.dll
+C:\Users\Aluno\Documents\Csharp\OrientacaoaObjetos\bin\Debug\net5.0\OrientacaoaObjetos.pdb
+C:\Users\Aluno\Documents\Csharp\OrientacaoaObjetos\obj\Debug\net5.0\OrientacaoaObjetos.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Csharp\OrientacaoaObjetos\obj\Debug\net5.0\OrientacaoaObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Csharp\OrientacaoaObjetos\obj\Debug\net5.0\OrientacaoaObjetos.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Csharp\OrientacaoaObjetos\obj\Debug\net5.0\OrientacaoaObjetos.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Csharp\OrientacaoaObjetos\obj\Debug\net5.0\OrientacaoaObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Csharp\OrientacaoaObjetos\obj\Debug\net5.0\OrientacaoaObjetos.dll
+C:\Users\Aluno\Documents\Csharp\OrientacaoaObjetos\obj\Debug\net5.0\ref\OrientacaoaObjetos.dll
+C:\Users\Aluno\Documents\Csharp\OrientacaoaObjetos\obj\Debug\net5.0\OrientacaoaObjetos.pdb
+C:\Users\Aluno\Documents\Csharp\OrientacaoaObjetos\obj\Debug\net5.0\OrientacaoaObjetos.genruntimeconfig.cache
