@@ -13,14 +13,15 @@ Content-Type: application/json
 ### Buscar um funcionário
 GET https://localhost:5001/api/funcionario/buscar/123456789
 
-#### Deletar os funcionários
-DELETE https://localhost:5001/api/funcionario/deletar/123456789
+#### Deletar os funcionários pelo Id
+DELETE https://localhost:5001/api/funcionario/deletar/3
 
 #### Alterar nome funcionário
 PATCH  https://localhost:5001/api/funcionario/alterar
 Content-Type: application/json
 
 {
-    "nome" : "Diogo Steinke Deconto Modificado",
+    "id": 1,
+    "nome" : "Batata",
     "cpf" : "123456789"
 }
