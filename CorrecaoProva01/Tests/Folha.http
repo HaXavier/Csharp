@@ -1,0 +1,20 @@
+### Cadastrar uma Folha
+POST https://localhost:5001/api/folha/cadastrar
+Content-Type: application/json
+
+{
+    "funcionarioid" : 1,
+    "valorHora" : 50,
+    "quantidadeHoras" : 100,
+    "mes" : 10,
+    "ano" : 2020
+}
+
+### Listar Folha de Pagamento
+GET https://localhost:5001/api/folha/listar
+
+### Filtra Folha de Pagamento
+GET https://localhost:5001/api/folha/filtrar/10/2022
+
+### Buscar um funcionário pelo CPF
+GET https://localhost:5001/api/folha/filtrar/12312312312/10/2022
