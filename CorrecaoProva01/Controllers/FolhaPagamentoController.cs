@@ -44,7 +44,7 @@ namespace API.Controllers
 
         // GET: /api/folha/filtrar
         [HttpGet]
-        [Route("filtrar/{mes}/{ano}")]
+        [Route("filtrar/{cpf}/{mes}/{ano}")]
         public IActionResult Filtrar([FromRoute] string cpf, int mes, int ano)
         {
             return Ok(
